@@ -1,5 +1,7 @@
 # Credit Risk Scorecard
 
+[![Tests](https://github.com/LusandaNongogo/credit-risk-scorecard/actions/workflows/tests.yml/badge.svg)](https://github.com/LusandaNongogo/credit-risk-scorecard/actions/workflows/tests.yml)
+
 An application PD scorecard built and validated end to end in Python, then extended with two things South African lenders deal with every day: an NCR style affordability check and IFRS 9 expected credit loss.
 
 ## Results
