@@ -1,1 +1,1 @@
-# credit-risk-scorecard.
+# credit-risk-scorecard
