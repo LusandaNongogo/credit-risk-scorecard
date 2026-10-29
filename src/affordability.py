@@ -5,9 +5,11 @@ Credit Act a lender also has to show the customer can afford the new
 repayment, otherwise the loan can be ruled reckless credit. This module
 does a simplified version of that check.
 
-The minimum expense norms below are the bands from the NCR Affordability
-Assessment Regulations (2015 amendment). They are here for illustration;
-check the current published schedule before using them for anything real.
+The minimum expense norms below are Table 1 of regulation 23A(10) of the
+National Credit Regulations (Affordability Assessment Regulations, in force
+since 2015). Note that one widely used online copy shows the second band's
+fixed amount as R900; the correct figure is R800, which is the only value
+that makes R800 + 6.75% x R5 450 equal the next band's R1 167.88.
 """
 
 from dataclasses import dataclass
